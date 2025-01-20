@@ -1,0 +1,17 @@
+SpeechRecognition
+pyaudio
+pyttsx3
+gTTS
+ollama
+torch
+torchvision
+torchaudio
+python-dotenv~=1.0.1
+google-api-python-client~=2.159.0
+google-auth-httplib2
+google-auth-oauthlib~=1.2.1
+requests~=2.32.3
+protobuf~=5.29.3
+pyalsaaudio
+sounddevice
+kivy
