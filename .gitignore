@@ -2,9 +2,9 @@
 .venv
 data.json
 test
-.auth
-.auth/credentials.json
-.auth/token.json
+assistant_backend/api/.auth
+assistant_backend/api/.auth/credentials.json
+assistant_backend/api/.auth/token.json
 .idea
 __pycache__
-.auth/.idea
+assistant_backend/api/.auth/.idea
